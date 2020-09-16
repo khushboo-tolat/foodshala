@@ -1,0 +1,56 @@
+.header{
+     height: 110px;
+     background-color: #2980B9;
+     color: white;
+     z-index: 1;
+}
+
+.logo{
+     font-size: 50px;
+     padding-top: 1%;
+}
+
+.login{
+     font-size: 23px;
+     padding-top: 2.5%;
+     text-align: center;
+}
+
+.login_link, .login_link:hover{
+     color: white;
+     text-decoration: none;
+}
+
+.btn_design{
+     background-color: #2980B9;
+     border: none;
+}
+
+.link_design_dropdown{
+     color: black;
+     text-decoration: none;
+     
+}
+
+.li_rest{
+     font-size: 15px;
+     color: black;
+     padding: 10px 20px;
+}
+
+.modal_top{
+     margin-bottom: 20px;
+}
+
+.modal-body{
+     color: black;
+}
+
+.modal_heading{
+     font-size: 17px;
+}
+
+.modal_btn{
+     color: white;
+     font-size: 20px;
+}

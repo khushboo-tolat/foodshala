@@ -1,0 +1,88 @@
+body{
+     background-color: #F0F3F4;
+}
+
+.menu-section{
+     background-color: white;
+     margin-top: 40px;
+     margin-bottom: 40px;
+}
+
+.signup_section{
+     padding: 20px 40px 40px 40px;
+}
+
+.item-card{
+     padding-top: 40px;
+     padding-bottom: 40px;
+     border-bottom: 1px solid #D0D3D4;
+}
+
+.signup-card{
+     border-bottom: 1px solid grey;
+     padding: 20px 0px; 
+     margin-bottom: 40px;
+}
+
+.item_img{
+     height: 100px;
+     width: 130px;
+}
+
+.item_veg {
+     height: 12px;
+     width: 12px;
+     margin-top: -30px;
+}
+
+.item_name{
+     font-size: 30px;
+     font-weight: 700;
+}
+
+.item_prize .item_decription{
+     font-size: 20px;
+     color: grey;
+}
+
+.add_btn, .add_btn:hover{
+     background-color: white;
+     border: 1px solid grey;
+     border-radius: 5px;
+     padding: 5px 20px;
+     font-size: 15px;
+     font-weight: 600;
+     color: black;
+}
+
+.view_menu, .add_menu_item_btn{
+     background-color: #707B7C;
+     border: none;
+     color: white;
+     border-radius: 5px;
+     padding: 10px 20px;
+     font-size: 17px;
+}
+
+.add_menu_item{
+     text-align: right;
+     padding-top: 20px;
+     padding-bottom: 20px;
+}
+
+.no-item{
+     text-align: center;
+     padding: 20px 0px;
+     font-size: 20px;
+     font-weight: 600px; 
+}
+
+.item-section{
+     padding-left: 0px;
+     margin-top: 20px;
+}
+
+.delete_item, .delete_item:hover{
+     color: grey;
+     font-size: 23px;
+}

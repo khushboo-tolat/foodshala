@@ -1,0 +1,46 @@
+.order-section{
+     background-color: white;
+     margin-top: 40px;
+     margin-bottom: 40px;
+     padding: 20px 40px 40px 40px;
+}
+
+.order-card{
+     border-bottom: 1px solid grey;
+     padding: 20px 0px; 
+     margin-bottom: 40px;
+}
+
+.item-heading{
+     font-size: 20px;
+     padding-left: 0px;
+     padding-bottom: 10px;
+}
+
+.item-data{
+     border: none;
+     background-color: white;
+}
+
+.item-size{
+     font-size: 19px;
+}
+
+.quantity{
+     font-size: 17px;
+     text-align: center;
+}
+
+.qty-btn{
+     font-size: 23px;
+     padding: 0px 15px;
+}
+
+.place_order_btn{
+     margin-bottom: 20px;
+     font-size: 20px;
+}
+
+.order_status{
+     font-size: 15px;
+}
